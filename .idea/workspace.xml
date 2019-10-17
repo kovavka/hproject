@@ -2,28 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc34267c-85f4-49cc-95ad-a237f7b7553c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/App.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/components/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/serviceWorker.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/src/services/RenameService.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-typescript-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/RenameService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/components/main.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/serviceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/src/services/RenameService.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-typescript-app/tsconfig.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +93,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571341793145</updated>
-      <workItem from="1571341794205" duration="736000" />
+      <workItem from="1571341794205" duration="1013000" />
     </task>
+    <task id="LOCAL-00001" summary="create">
+      <created>1571342580313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571342580313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create" />
+    <option name="LAST_COMMIT_MESSAGE" value="create" />
   </component>
 </project>
